@@ -1,0 +1,20 @@
+{
+  "name": "vector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "scripts": {
+    "test": "jest",
+    "start": "tsc -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^23.1.5",
+    "jest": "^23.4.0",
+    "ts-jest": "^23.0.0",
+    "typescript": "^2.9.2"
+  }
+}
